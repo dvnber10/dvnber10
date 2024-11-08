@@ -28,8 +28,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           output: dist/snake.svg
 
-      - name: Check generated files
-        run: ls -R dist || echo "Directory not found or empty"
+      - name: Check if snake.svg exists
+        run: |
+          if [ -f dist/snake.svg ]; then
+            echo "snake.svg exists!"
+          else
+            echo "snake.svg not found!"
+          fi
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
