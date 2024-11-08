@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://davidmmasters.com/wp-content/uploads/2018/04/trauma-inspired-programming.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmfdjpisrjlmce8wu6mpm7x7orty2z7gdx8lcnyv&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
