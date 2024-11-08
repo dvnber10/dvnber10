@@ -72,7 +72,6 @@
 
 ###
 <br clear="both">
-![Snake animation](https://github.com/dvnber10/dvnber10/blob/output/snake.svg)
 
 <img src="https://raw.githubusercontent.com/dvnber10/dvnber10/output/snake.svg" alt="Snake animation" />
 
